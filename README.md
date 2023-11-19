@@ -1,2 +1,3 @@
-# Automatic-trash-can
+# Automatic
+
 เครื่องแยกขวดพลาสติกและกระป๋องอัตโนมัติ
